@@ -1,0 +1,22 @@
+[
+  {
+    "path": "posts/2021-03-30-2021-03-30-hello-world/",
+    "title": "기본소득",
+    "description": "기본소득 가즈아 ~~~",
+    "author": [
+      {
+        "name": "이광춘",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-30",
+    "categories": [
+      "basic income",
+      "기본소득"
+    ],
+    "contents": "\n기본소득\n기본소득 프로젝트 시작합니다.\n\n\n\n\n\n\n",
+    "preview": "posts/2021-03-30-2021-03-30-hello-world/distill-preview.png",
+    "last_modified": "2021-03-30T18:44:59+09:00",
+    "input_file": {}
+  }
+]

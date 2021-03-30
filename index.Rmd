@@ -11,6 +11,7 @@ links:
 output:
   postcards::jolla
 site: distill::distill_website
+listing: posts
 ---
 
 ```{r setup, include=FALSE}

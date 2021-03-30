@@ -1,0 +1,29 @@
+---
+title: "기본소득"
+description: |
+  기본소득 가즈아 ~~~
+author:
+  - name: 이광춘
+date: 2021-03-30
+categories:
+  - "basic income"
+  - 기본소득
+output:
+  distill::distill_article:
+    self_contained: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# 기본소득
+
+기본소득 프로젝트 시작합니다.
+
+```{r basic-income}
+img_filepath <- glue::glue("{here::here()}/fig/basic-income-picture.jpg")
+knitr::include_graphics(img_filepath)
+```
+
