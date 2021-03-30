@@ -2,6 +2,8 @@
 title: "Basic Income"
 image: "fig/basic-income-picture.jpg"
 links:
+  - label: Facebook
+    url: "https://www.facebook.com/groups/tidyverse"
   - label: Twitter
     url: "https://twitter.com/statkclee"
   - label: GitHub

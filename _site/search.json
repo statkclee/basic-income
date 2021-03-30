@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Basic Income",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-30T18:38:46+09:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Basic Income",
+      "author": [],
+      "contents": "\n\n          \n          \n          Basic Income\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            Basic Income\n          \n          \n            \n              \n            \n            \n              \n            \n          \n\n          \n            \n              \n                  \n                    \n                      Facebook\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    Facebook\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-03-30T18:38:46+09:00"
+    }
+  ],
+  "collections": []
+}
