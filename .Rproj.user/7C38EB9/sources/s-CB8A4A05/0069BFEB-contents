@@ -2,7 +2,7 @@ name: "basic-income"
 title: "Basic Income"
 description: |
   Basic Income
-output_dir: "docs"
+output_dir: "_site"
 navbar:
   right:
     - text: "Home"
