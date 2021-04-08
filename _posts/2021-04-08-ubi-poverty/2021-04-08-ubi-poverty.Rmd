@@ -1,0 +1,47 @@
+---
+title: "기본소득은 불평등을 심화시킬까?"
+description: |
+  기본소득을 도입하고 실행할 때 중요하게 고려해야되는 사항에 대해서 살펴보자.
+author:
+  - name: 이광춘
+    url: {}
+date: 2021-04-08
+bibliography: ../../assets/bibliography_bi.bib
+csl: ../../assets/biomed-central.csl
+mainfont: NanumGothic
+urlcolor: blue
+linkcolor: blue
+output:
+  distill::distill_article:
+    self_contained: true
+editor_options: 
+  chunk_output_type: console
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+```{r include-cbpp-logo}
+cbpp_filepath <- glue::glue("{here::here()}/fig/CBPP-logo.png")
+knitr::include_graphics(cbpp_filepath)
+```
+
+
+# 기본소득 얼개 {#update-robert}
+
+기본소득을 추진할 경우 다음과 같은 사항이 사전 검토되어야 의미가 있다. [@robert2019]
+
+- 기본소득에 대한 재원 규모
+- 기본소득 부담주체
+- 기본소득 부작용, 효과
+
+```{r basic-income-framework}
+bi_framework_filepath <- glue::glue("{here::here()}/fig/basic-income.png")
+knitr::include_graphics(bi_framework_filepath)
+```
+
+
+

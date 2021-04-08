@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-04-08-ubi-poverty/",
+    "title": "기본소득은 불평등을 심화시킬까?",
+    "description": "기본소득을 도입하고 실행할 때 중요하게 고려해야되는 사항에 대해서 살펴보자.",
+    "author": [
+      {
+        "name": "이광춘",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-08",
+    "categories": [],
+    "contents": "\n\n\n\n기본소득 얼개\n기본소득을 추진할 경우 다음과 같은 사항이 사전 검토되어야 의미가 있다. [1]\n기본소득에 대한 재원 규모\n기본소득 부담주체\n기본소득 부작용, 효과\n\n\n\n\n\n\n1. GREENSTEIN R. Commentary: Universal basic income may sound attractive but, if it occurred, would likelier increase poverty than reduce it. PLoS ONE. 2019. https://www.cbpp.org/research/poverty-and-opportunity/commentary-universal-basic-income-may-sound-attractive-but-if-it.\n\n\n\n\n",
+    "preview": "posts/2021-04-08-ubi-poverty/distill-preview.png",
+    "last_modified": "2021-04-08T15:45:15+09:00",
+    "input_file": "2021-04-08-ubi-poverty.utf8.md"
+  },
+  {
     "path": "posts/2021-03-30-2021-03-30-hello-world/",
     "title": "기본소득",
     "description": "기본소득 가즈아 ~~~",
